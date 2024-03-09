@@ -1,0 +1,7 @@
+require("shells.plugins-setup")
+require("shells.core.options")
+require("shells.core.keymaps")
+require("shells.core.colorscheme")
+require("shells.plugins.lsp.lsp")
+require("shells.plugins.nvim-tree")
+require("shells.plugins.nvim-cmp")
